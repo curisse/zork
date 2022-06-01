@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E66DD1A3-CF22-4971-B78F-DFD221B752D0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Schism/Program.cs">
+    <Files>
+      <File FileName="Schism/CharacterCreate.cs" Line="64" Column="45" />
+      <File FileName="Schism/Program.cs" Line="400" Column="52" />
+      <File FileName="Schism/Encounters.cs" Line="312" Column="48" />
+      <File FileName="Schism/Player.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Schism" expanded="True">
+            <Node name="Schism" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Schism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

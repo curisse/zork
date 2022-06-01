@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e3Ic8QHr9P4yG9wJd0S9ZBLujDNza7vISi0L5XKu53erxJ0pq0QwiGeH+mr4PoXwDiiCfX6YZPuHjnKEt5CXZQ==",
+  "success": true,
+  "projectFilePath": "/Users/aleksanderhammo/Schism/Schism/Schism.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksanderhammo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/aleksanderhammo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/aleksanderhammo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
